@@ -1,2 +1,2 @@
-# min7
-Min7 app
+# mind7
+Mind7 app
